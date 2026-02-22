@@ -15,5 +15,5 @@ limit 5;
 
 /* Insight: 
 The top 5 best selling products are Turkey Sandwich, Caesar Salad
-,Iced Tea, Latte, and Caramel Macchiato. Turkey sandwich and Caesar Salad bring the most revenue.
+,Iced Tea, Latte, and Caramel Macchiato. Turkey sandwich and Caesar Salad generate the most revenue.
 */
