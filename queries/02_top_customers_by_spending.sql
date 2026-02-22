@@ -13,3 +13,7 @@ group by c.firstname,c.lastname
 order by total_spent desc
 limit 10;
 
+/* Insight:
+The result shows that the top 10 customers have fairly even spending
+ranging between $23-$31. Harper Jackson leads at $30.50. 
+*/
