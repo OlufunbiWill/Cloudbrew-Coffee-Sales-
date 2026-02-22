@@ -12,3 +12,8 @@ on p.product_id = i.product_id
 group by p.product_name, p.product_id
 order by total_revenue desc
 limit 5;
+
+/* Insight: 
+The top 5 best selling products are Turkey Sandwich, Caesar Salad
+,Iced Tea, Latte, and Caramel Macchiato. Turkey sandwich and Caesar Salad bring the most revenue.
+*/
