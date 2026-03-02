@@ -1,0 +1,41 @@
+product_1,product_2,times_bought_together
+"Turkey Sandwich","Iced Tea",72
+"Cold Brew","Iced Tea",54
+Latte,"Chocolate Chip Cookie",54
+Mocha,"Blueberry Muffin",54
+"Caramel Macchiato","Iced Tea",54
+"Blueberry Muffin","Iced Tea",54
+"Cold Brew","Turkey Sandwich",54
+Latte,Croissant,45
+"Blueberry Muffin","Chocolate Chip Cookie",45
+"Caesar Salad","Iced Tea",45
+"Chocolate Chip Cookie","Iced Tea",36
+"Caramel Macchiato",Croissant,36
+"Chocolate Chip Cookie","Banana Bread",36
+Mocha,"Chocolate Chip Cookie",27
+"Caramel Macchiato","Caesar Salad",27
+"Chocolate Chip Cookie","Caesar Salad",27
+"Chocolate Chip Cookie","Bagel with Cream Cheese",27
+Mocha,"Iced Tea",27
+Latte,"Banana Bread",27
+Cappuccino,"Blueberry Muffin",18
+Cappuccino,"Iced Tea",18
+Mocha,"Banana Bread",18
+"Blueberry Muffin","Caesar Salad",18
+Americano,Croissant,18
+"Caramel Macchiato","Chocolate Chip Cookie",18
+"Bagel with Cream Cheese","Caesar Salad",18
+"Caramel Macchiato","Blueberry Muffin",18
+Americano,"Chocolate Chip Cookie",18
+Latte,"Iced Tea",18
+"Chocolate Chip Cookie","Turkey Sandwich",9
+"Cold Brew","Chocolate Chip Cookie",9
+Cappuccino,"Chocolate Chip Cookie",9
+"Cold Brew","Caesar Salad",9
+"Caramel Macchiato","Turkey Sandwich",9
+"Blueberry Muffin","Banana Bread",9
+Croissant,"Chocolate Chip Cookie",9
+Croissant,"Iced Tea",9
+Latte,"Bagel with Cream Cheese",9
+"Turkey Sandwich","Caesar Salad",9
+"Banana Bread","Iced Tea",9
