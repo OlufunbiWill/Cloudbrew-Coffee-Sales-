@@ -33,8 +33,7 @@ This project demonstrates end-to-end data analysis skills including:
 7. Which products are often purchased together?
     - Turkey sandwich and Iced Tea is the most popular combination (72 times).
 
-## 📸 Dashboard Preview
-    ![CloudBrew Coffee Dashboard](dashboard/dashboard_preview.png)
+## 📸 Dashboard Preview![CloudBrew Coffee Dashboard](dashboard/dashboard_preview.png)
 
 ## 🖥️ Technologies
 
